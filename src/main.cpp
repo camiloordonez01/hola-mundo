@@ -1,4 +1,4 @@
-//============================================================================
+﻿//============================================================================
 // Name        : main.cpp
 // Author      : Federico López Gómez
 // Version     : 0.0.0
@@ -10,5 +10,6 @@ using namespace std;
 
 int main() {
     cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+           LOL;
     return 0;
 }
